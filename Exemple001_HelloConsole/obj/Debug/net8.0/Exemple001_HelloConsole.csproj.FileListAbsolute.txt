@@ -1,0 +1,14 @@
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\bin\Debug\net8.0\Exemple001_HelloConsole.exe
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\bin\Debug\net8.0\Exemple001_HelloConsole.deps.json
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\bin\Debug\net8.0\Exemple001_HelloConsole.runtimeconfig.json
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\bin\Debug\net8.0\Exemple001_HelloConsole.dll
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\bin\Debug\net8.0\Exemple001_HelloConsole.pdb
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.AssemblyInfo.cs
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.dll
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\refint\Exemple001_HelloConsole.dll
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.pdb
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\Exemple001_HelloConsole.genruntimeconfig.cache
+C:\Users\astas\Desktop\Languag C\Examples\Exemple001_HelloConsole\obj\Debug\net8.0\ref\Exemple001_HelloConsole.dll

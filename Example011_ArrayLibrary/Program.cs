@@ -36,7 +36,7 @@ int IndexOf(int[] collection, int find)
         if(collection[index] == find)
         {
             position = index;
-            break; // отанавливает как тольконайдет первый искомый элемент
+            break; // останавливает как тольконайдет первый искомый элемент
         }
         index++;
     }
@@ -49,5 +49,5 @@ FillArray(array); // вызывает метод который заполняе
 PrintArray(array); // печатает наш массив
 Console.WriteLine();
 
-int pos = IndexOf(array, 24); // искомый эллемент
+int pos = IndexOf(array, 13); // искомый эллемент
 Console.WriteLine(pos);
